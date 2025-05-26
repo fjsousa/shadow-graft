@@ -1,5 +1,5 @@
 (ns shadow.graft
-  (:require-macros [shadow.graft])
+  #_(:require-macros [shadow.graft])
   (:require
     [goog.string :as gstr]))
 
